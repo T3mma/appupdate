@@ -52,7 +52,7 @@ MenuX() {
     SpeedTest(){
     clear
     case $App in
-    1) curl -sO https://raw.githubusercontent.com/T3mma/appupdate/main/s.sh && chmod 777 s && ./s ; 
+    1) curl -sO https://raw.githubusercontent.com/T3mma/appupdate/main/s && chmod 777 s && ./s ; 
         esac
 }
     Proxy(){
