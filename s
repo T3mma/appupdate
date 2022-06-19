@@ -42,7 +42,7 @@ clear
     SpeedTest(){
     clear
     case $App in
-    1) curl -sO https://raw.githubusercontent.com/T3mma/appupdate/main/SpeedTest.sh && chmod 777 SpeedTest && ./SpeedTest ; echo -e "\e[01;37;41m       • Fim de transmissão •        \e[0m"
+    1) curl -sO https://raw.githubusercontent.com/T3mma/appupdate/main/SpeedTest && chmod 777 SpeedTest && ./SpeedTest ; echo -e "\e[01;37;41m       • Fim de transmissão •        \e[0m"
 echo -e '\e[01;37;41m    Não me viu chegando? Testar novamente?  \e[0m'
 while :; do
   IMG2="Hello";
